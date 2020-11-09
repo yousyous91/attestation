@@ -201,7 +201,7 @@
                     [3] Y compris les acquisitions à titre gratuit (distribution de denrées alimentaires...) et les déplacements liés à la perception de prestations sociales et au retrait d'espèces.
                 </p>
             </div>
-            <p class="github">Le code source de ce service est consultable sur <a href="https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020" class="github-link">GitHub</a>.</p>
+            <p class="github">Le code source de ce service est consultable sur <a href="https://github.com/yousyous91/attestation" class="github-link">GitHub</a>.</p>
         </main>
         <footer role="contentinfo" class="main-footer">
             <p class="label-mi">
